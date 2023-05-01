@@ -2,7 +2,7 @@ const square = require("./square");
 describe('squareValidation', () => {
 
 
-    let mockValue;
+
     // Викликаеться  функції перед кожним тестом
     beforeEach(() => {
         // add base
